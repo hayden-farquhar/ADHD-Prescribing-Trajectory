@@ -1,0 +1,43 @@
+year,country,metric,total,male,female,data_type
+2004,Australia,Unique patients dispensed (PBS),37257.0,27975.0,9282.0,observed
+2005,Australia,Unique patients dispensed (PBS),45406.0,34534.0,10872.0,observed
+2006,Australia,Unique patients dispensed (PBS),50735.0,38809.0,11926.0,observed
+2007,Australia,Unique patients dispensed (PBS),62405.0,48099.0,14306.0,observed
+2008,Australia,Unique patients dispensed (PBS),68120.0,52383.0,15737.0,observed
+2009,Australia,Unique patients dispensed (PBS),73398.0,56059.0,17339.0,observed
+2010,Australia,Unique patients dispensed (PBS),77769.0,59120.0,18649.0,observed
+2011,Australia,Unique patients dispensed (PBS),93900.0,70370.0,23530.0,observed
+2012,Australia,Unique patients dispensed (PBS),108349.0,80515.0,27834.0,observed
+2013,Australia,Unique patients dispensed (PBS),115994.0,85680.0,30314.0,observed
+2014,Australia,Unique patients dispensed (PBS),124049.0,91295.0,32754.0,observed
+2015,Australia,Unique patients dispensed (PBS),139262.0,102005.0,37257.0,observed
+2016,Australia,Unique patients dispensed (PBS),154575.0,112498.0,42077.0,observed
+2017,Australia,Unique patients dispensed (PBS),173370.0,125185.0,48185.0,observed
+2018,Australia,Unique patients dispensed (PBS),199166.0,142481.0,56685.0,observed
+2019,Australia,Unique patients dispensed (PBS),232263.0,163332.0,68931.0,observed
+2020,Australia,Unique patients dispensed (PBS),286407.0,193070.0,93337.0,observed
+2021,Australia,Unique patients dispensed (PBS),365785.0,231906.0,133879.0,observed
+2022,Australia,Unique patients dispensed (PBS),468643.0,281445.0,187198.0,observed
+2023,Australia,Unique patients dispensed (PBS),595372.0,341346.0,254026.0,observed
+2000,Denmark,Medicated patients (national registers),2024.0,,,observed
+2005,Denmark,Medicated patients (national registers),6727.0,,,observed
+2010,Denmark,Medicated patients (national registers),32519.0,,,observed
+2015,Denmark,Medicated patients (national registers),42307.0,,,observed
+2020,Denmark,Medicated patients (national registers),61782.0,,,observed
+2022,Denmark,Medicated patients (national registers),86707.0,,,observed
+2000,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",42.7,73.5,10.4,observed
+2001,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",50.4,,,observed
+2002,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",64.0,,,observed
+2003,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",86.3,,,observed
+2004,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",107.2,,,observed
+2005,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",127.5,,,observed
+2006,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",155.7,,,observed
+2007,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",189.8,,,observed
+2008,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",209.4,,,observed
+2009,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",225.0,,,observed
+2010,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",240.4,,,observed
+2011,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",268.9,,,observed
+2012,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",295.9,,,observed
+2013,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",322.6,,,observed
+2014,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",353.1,568.7,134.3,observed
+2015,United Kingdom,"Prescribing prevalence per 10,000 (CPRD)",394.4,,,observed
