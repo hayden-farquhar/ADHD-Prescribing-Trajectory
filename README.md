@@ -2,7 +2,7 @@
 
 Reproducibility repository for:
 
-> Farquhar H. Closing the Gap: Twenty Years of ADHD Medication Prescribing by Sex in Australia, with International Comparison. [Journal TBD]. 2026.
+> Farquhar H. Closing the Gap: Twenty Years of ADHD Medication Prescribing by Sex in Australia, with International Comparison. 2026.
 
 ## Data
 
